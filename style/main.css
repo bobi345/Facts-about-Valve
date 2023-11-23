@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(43, 43, 43);
+    font-family: Courier New;
+    color: white;
+}
+
+.header {
+    background-color: dimgrey;
+}
+
+.header {
+    min-height: 10vh;
+    background-color: rgb(141, 140, 140);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+.vl {
+    margin-left: 15px;
+}
+
+.top1 {
+    text-align: center;
+    padding-top: 15px;
+    padding-right: 15px;
+    color: white
+}
+
+.game {
+    display: none;
+}
+
+.test:hover {}
+
+a {
+    color: cyan;
+}
