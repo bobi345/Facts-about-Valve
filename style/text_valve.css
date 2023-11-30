@@ -1,0 +1,23 @@
+p {
+    font-size: 20px;
+}
+
+img {
+    width: 500px;
+    margin: 0 10px 0 0;
+}
+
+.img_vl {
+    margin: 0 10px 0 0;
+    width: 29%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.txt {
+    display: inline-block;
+    width: 69%;
+    margin: 0 0 0 10px;
+
+
+}
