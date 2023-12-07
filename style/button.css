@@ -1,101 +1,47 @@
+* {
+    color: white;
+}
+
 ul {
     list-style-type: none;
 }
 
 li,
 .dropdown {
+
+    display: inline-block;
+
     display: inline;
+
 }
 
 a,
 ul,
 li {
     text-decoration: none;
-    color: gainsboro;
-
 }
 
-
-
-.valve,
-.steam,
-.singin,
-.dropbtn {
-    background-color: grey;
-    padding: 20px;
-    margin: -9px;
-    margin-top: -10px;
-    color: white;
+li {
+    margin: 20px;
 }
 
-.singin {
-    float: right;
-    margin-right: -7.5px;
-}
 
 .valve:hover {
-    background-color: rgb(215, 52, 52);
-    color: black;
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
 }
 
 .steam:hover {
-    background-color: rgb(52, 52, 139);
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
 }
 
-
-.singin:hover {
-    background-color: rgb(75, 75, 75);
-
+.menu:hover {
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
 }
 
-
-.dropbtn {
-    color: white;
-    background-color: grey;
-    border: none;
-    padding: 20px;
-    font-size: 25px;
-    font-family: Courier New;
-
+.news:hover {
+    text-shadow: white 1px 0 10px;
 }
 
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: grey;
-    left: 225px;
-    top: 69px;
-    font-size: 18.7px;
-    text-align: center;
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 0 5px 0 5px;
-    display: block;
-    color: white;
-}
-
-.p1:hover {
-    background-color: rgb(83, 83, 83);
-}
-
-.p2:hover {
-    background-color: rgb(83, 83, 83);
-}
-
-.cs:hover {
-    background-color: rgb(83, 83, 83);
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown:hover .dropbtn {
-    background-color: rgb(83, 83, 83);
-}
-
-.vlv {
-    text-decoration: underline;
+.shop:hover {
+    text-shadow: white 1px 0 10px;
 }

@@ -1,10 +1,22 @@
+.header{
+    background-color: darkred;
+}
+
+.footer{
+    background-color: darkred;
+}
+
 p {
     font-size: 20px;
 }
 
 img {
     width: 500px;
-    margin: 0 10px 0 0;
+    padding: 20px;
+}
+
+img {
+    width: 500px;
 }
 
 .img_vl {
@@ -18,6 +30,39 @@ img {
     display: inline-block;
     width: 69%;
     margin: 0 0 0 10px;
+}
+
+.geb{
+    text-decoration: underline brown;
+    color: white;
+}
 
 
+td,tr{
+    border: 2px solid white;
+    width: 1250px;
+    font-size: 20px;
+    text-align: center;
+}
+
+th{
+    font-size: 25px;
+    border: 2px solid white;
+}
+
+td{
+    padding: 5px;
+}
+
+.tdr{
+    text-decoration: underline;
+    color: blue;
+}
+
+a{
+    color: white;    
+}
+
+table{
+    padding: 0 0 20px 0 ; 
 }

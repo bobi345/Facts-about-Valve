@@ -1,0 +1,50 @@
+.header {
+    background-color: darkblue;
+}
+
+.footer {
+    background-color: darkblue;
+}
+
+.t1 {
+    text-decoration: underline;
+    color: greenyellow;
+}
+
+.s {
+    text-decoration: underline;
+    color: white;
+}
+
+h1,
+h3,
+p {
+    margin: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    width: 540px;
+    padding: 10px 0 10px 0;
+}
+
+.txt {
+    width: 69%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img_st {
+    display: inline-block;
+    width: 30%;
+}
+
+.the_end {
+    font-size: 10px;
+    display: inline;
+    padding: 0;
+    margin: 0;
+}

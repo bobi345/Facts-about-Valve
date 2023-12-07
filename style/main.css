@@ -10,14 +10,21 @@ body {
 }
 
 .header {
-    min-height: 7.2vh;
-    background-color: darkred
+    min-height: 7.8vh;
 }
+
 
 .menu_header {
     font-size: 25px;
-    padding: 10px 8px 8px 10px;
+    padding: 20px 8px 8px 10px;
+}
 
+.content {
+    min-height: 84.6vh;
+}
+
+.footer {
+    min-height: 7.8vh;
 }
 
 .content {
@@ -26,5 +33,4 @@ body {
 
 .footer {
     min-height: 7.2vh;
-    background-color: rgb(49, 140, 66);
 }

@@ -1,0 +1,59 @@
+body {
+    background-color: #171d25;
+}
+
+.header {
+    background: #171d25;
+}
+
+.content {
+    background-color: #353434;
+}
+
+p {
+    color: rgb(224, 223, 223);
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(219, 219, 219);
+}
+
+h1,
+h2,
+p {
+    padding: 5px 10px;
+    margin: 0 100px;
+
+}
+
+.n1 {
+    margin: 0 100px;
+    border: 1px solid rgb(168, 168, 168);
+}
+
+h2,
+p {
+    padding: 5px;
+}
+
+.gloal_news {
+    background-color: rgb(94, 92, 92);
+
+}
+
+.newstxt {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ih {
+    display: inline-block;
+    width: 40%;
+}
+
+img {
+    width: 350px;
+    padding: 10px;
+}
