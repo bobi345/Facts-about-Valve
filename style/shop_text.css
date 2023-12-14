@@ -1,0 +1,49 @@
+.header,
+.footer {
+    background-color: rgb(14, 14, 102);
+}
+
+img {
+    width: 380px;
+}
+
+h4 {
+    padding: 30px;
+}
+
+h3 {
+    height: 20px;
+    margin: 30px 8.1% -20px;
+}
+
+.g1 {
+    margin: 30px 40%;
+    display: inline-block;
+    background-color: rgb(55, 77, 189);
+
+}
+
+.g1:hover {
+    background-color: rgb(46, 35, 152);
+}
+
+.g1_1 {
+    margin: 6px 238px 0 0;
+    padding: 0 0 5px 5px;
+}
+
+.hj1 {
+    width: 19%;
+    display: inline-block;
+}
+
+.hj,
+.ho,
+.hp {
+    width: 20%;
+    display: inline-block;
+}
+
+.tf2 {
+    width: 50px;
+}

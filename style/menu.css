@@ -1,8 +1,17 @@
-.header {
-    background-color: darkgrey;
+.header,.footer{
+    background-color: rgb(123, 122, 122);
 }
 
-
-h2 {
+h2,
+p {
     padding: 10px;
 }
+
+p{
+    font-size: 20px;
+}
+
+.ch{
+    text-decoration: underline;
+}
+

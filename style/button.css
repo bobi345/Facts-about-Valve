@@ -6,13 +6,8 @@ ul {
     list-style-type: none;
 }
 
-li,
-.dropdown {
-
-    display: inline-block;
-
+li{
     display: inline;
-
 }
 
 a,
